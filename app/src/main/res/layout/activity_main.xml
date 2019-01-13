@@ -24,6 +24,7 @@
         android:text="干啥呢"
         app:layout_constraintBottom_toTopOf="@+id/textView"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        app:layout_constraintStart_toStartOf="parent"
+        android:background="#000"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>
